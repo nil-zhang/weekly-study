@@ -27,3 +27,22 @@ https://www.youtube.com/watch?v=0IoUZdDi5Is&feature=youtu.be
 听说substrate很多方面都借鉴了cosmos sdk，于是初步跑了下cosmos sdk最新的教程。感觉很是相似。两者都很模块化，将要成为构建区块链的脚手架。以后做链就和现在做dapp一样。那在未来到底是做一条链呢还是做一个dapp呢：取决于成本？开发人员？
 
 https://github.com/cosmos/sdk-application-tutorial/blob/master/tutorial/README.md
+
+## 12/5/2018
+### 撸链教程
+https://substrate.readme.io/docs/creating-a-custom-substrate-chain
+
+### 视频
+https://www.youtube.com/channel/UCSs5vZi0U7qHLkUjF3QnaWg/videos
+https://www.youtube.com/watch?time_continue=64&v=26ucTSSaqog
+### 文章
+[引介 | 从比特币到 Polkado](https://ethfans.org/posts/consensus-and-finality-in-blockchains?from=groupmessage&isappinstalled=0)
+
+[cosmos polkadot大pk](http://8btc.com/thread-192727-1-1.html)
+
+### 观点
+看到substrate视频的时候，就觉得ethereum已经是过去时了 
+
+Parity 的行动已经很明显了，先主动 substrate 化主流的 bitcoin, ethereum, zcash… 以太坊无论有任何发展，也只是 parity 的一个 parachain, parity 一直在跟进，至于没有主动或者被动 substrate 化的，就已经在消失的轨道上了
+
+ 以太坊上能做的事情，以后polkadot都可以做，substrate这个可以动态升级runtime，一下把以太坊上的dapp甩出好几条街来
