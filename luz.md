@@ -1,4 +1,5 @@
-#Every  day of Rust: 2nd
+# Every day of Rust: 2nd
+
 ##二.rust的安装&包管理&项目代码目录结构
 
 #### 先说明下Rust的语言版本
@@ -90,7 +91,7 @@ Rust作为后期之作的编译语言，提供了甚至超越脚本语言才有�
 #### 实践环节：从0安装parity（以太坊rust客户端）
 
 
-#webassembly的学习（写作一篇题为webassembly为什么是未来的文章，还未写完...）
+# webassembly的学习（写作一篇题为webassembly为什么是未来的文章，还未写完...）
 #### webassembly史前，js如何演化：
 这货出现前，前端的圈子也是很乱很乱，一方面js编程入门简单，但是使用难度大。原型链，对象权限，数据类型的转换，异步，线程协程等相比其他语言都不是太简单的。
 
