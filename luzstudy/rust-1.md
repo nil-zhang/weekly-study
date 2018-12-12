@@ -56,12 +56,12 @@ github(包含使用文档):https://github.com/paritytech/substrate
 使用exonum,可以快速开发出数千tps公有链,以及更高tps的私链,需要注意exonum不提供智能合约,其将合约抽象成了service.
 https://exonum.com/
 
-国内的nervos也有探索
+**国内的nervos**
 
 **parity的以太坊客户端**
 目前github热度最高的rust区块链项目,做链层的开发,也可以在它的基础上改.
 
-** Sigma Prime的lighthouse**
+**Sigma Prime的lighthouse**
 以太坊2.0客户端版本之一，是parity之外另一个rust构造的客户端版本。
 源码目录：[https://github.com/sigp/lighthouse](https://github.com/sigp/lighthouse)
 
