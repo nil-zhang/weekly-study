@@ -9,13 +9,13 @@
 而react vue等也在浏览器里（甚至已经侵犯native app的领地）。然后执行效率上并没有提升(用异步，虚拟dom掩盖本身执行效率低的问题)，也不能让其他语言开发者参与进来，同时缺乏类型。
 Node.js虽然性能很好，但只限于服务端。浏览器里的js就是一个慢。
 
-#### 历史原因，js存在如下问题：
-1.编译执行速度慢，效率不高。
-2.语法入门简单，但进阶对其完全掌握却非常难，不同人写的js代码是不一致的。
-3.难以控制不出现bug，出现问题也不容易找出问题。
-4.缺乏高效的图像渲染类的库，无非满足网游等领域的需求。
-5.虽然有了简化的标准如es6，es7但是当前的浏览器未得到全部支持，而ts也一样。这些标准，以及前面提到的react，vue大多需要经过编译生成浏览器执行的js代码，简化了开发，但是编译过程不可控太高。执行效率比起直接执行js就更低了。
 
+#### 历史原因，js存在如下问题：
++ 1.编译执行速度慢，效率不高。
++ 2.语法入门简单，但进阶对其完全掌握却非常难，不同人写的js代码是不一致的。
++ 3.难以控制不出现bug，出现问题也不容易找出问题。
++ 4.缺乏高效的图像渲染类的库，无非满足网游等领域的需求。
++ 5.虽然有了简化的标准如es6，es7但是当前的浏览器未得到全部支持，而ts也一样。这些标准，以及前面提到的react，vue大多需要经过编译生成浏览器执行的js代码，简化了开发，但是编译过程不可控太高。执行效率比起直接执行js就更低了。
 
 ## 什么是webassembly？
 WebAssembly 是一种新的字节码格式，他支持WebAssembly开发者使用几乎任何的编程语言开发，然后通过编译器，生产WebAssembly字节码文件（.wasm）
@@ -42,8 +42,7 @@ Llvm编译器本身可以扩展，他将原省语言生成的wasm字节码文件
 
 
 ## webassembly怎么用（实践指南）
-这个例子是AssemblyScript为原生的开发语言。
-大概介绍了wasm的始末，以及编译，js执行的过程：
+这个例子是AssemblyScript为原生的开发语言，大概介绍了wasm的始末，以及编译，js执行的过程：
 [https://www.ibm.com/developerworks/cn/web/wa-lo-webassembly-status-and-reality/index.html](https://www.ibm.com/developerworks/cn/web/wa-lo-webassembly-status-and-reality/index.html)
 
 编写webassembly的原生语言中如何调用js的api：

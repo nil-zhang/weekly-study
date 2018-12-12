@@ -1,7 +1,7 @@
-##11月底
+## 11月底
 rust整体看了一边，完成[一.rust学习资料汇总](/luzstudy/rust-1.md)
 
-##12月6日
+## 12月6日
 学习rust的cargo，startup，完成[二.rust的安装&包管理&项目代码目录结构](/luzstudy/rust-2.md)
 
 ## 12月12日
