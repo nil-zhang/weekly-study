@@ -1,3 +1,8 @@
+## 12/12/2018
+
+*   Continue [notes on Polkadot Paper](https://github.com/sywang-desiree/block_chain_study/blob/master/notes/PolkaDotPaper_notes.md).
+*   [Notes on Substrate docs and videos](https://github.com/sywang-desiree/block_chain_study/blob/master/notes/Substrate_notes.md)
+
 ## 12/5/2018
 
 *   Continue [notes on Polkadot Paper](https://github.com/sywang-desiree/block_chain_study/blob/master/notes/PolkaDotPaper_notes.md)
